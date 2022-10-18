@@ -1,0 +1,92 @@
+[{
+  "version": "1.0",
+  "image": {
+    "name": "/home/videosdownloader/public_html/image/public/uploadt/freshwater_availability copy.tif",
+    "baseName": "freshwater_availability copy.tif",
+    "format": "TIFF",
+    "formatDescription": "TIFF",
+    "mimeType": "image/tiff",
+    "class": "DirectClass",
+    "geometry": {
+      "width": 720,
+      "height": 360,
+      "x": 0,
+      "y": 0
+    },
+    "units": "PixelsPerInch",
+    "type": "Grayscale",
+    "endianness": "LSB",
+    "colorspace": "Gray",
+    "depth": 16,
+    "baseDepth": 32,
+    "channelDepth": {
+      "gray": 1
+    },
+    "pixels": 259200,
+    "channelStatistics": {
+      "gray": {
+        "min": -2.29374e+06,
+        "max": 396174,
+        "mean": -8744.92,
+        "median": 18771.6,
+        "standardDeviation": 132551,
+        "kurtosis": 92.4794,
+        "skewness": -8.32057,
+        "entropy": 0.748513
+      }
+    },
+    "renderingIntent": "Perceptual",
+    "gamma": 0.454545,
+    "chromaticity": {
+      "redPrimary": {
+        "x": 0.64,
+        "y": 0.33
+      },
+      "greenPrimary": {
+        "x": 0.3,
+        "y": 0.6
+      },
+      "bluePrimary": {
+        "x": 0.15,
+        "y": 0.06
+      },
+      "whitePrimary": {
+        "x": 0.3127,
+        "y": 0.329
+      }
+    },
+    "matteColor": "#BDBDBD",
+    "backgroundColor": "#FFFFFF",
+    "borderColor": "#DFDFDF",
+    "transparentColor": "#00000000",
+    "interlace": "None",
+    "intensity": "Undefined",
+    "compose": "Over",
+    "pageGeometry": {
+      "width": 720,
+      "height": 360,
+      "x": 0,
+      "y": 0
+    },
+    "dispose": "Undefined",
+    "iterations": 0,
+    "compression": "LZW",
+    "orientation": "TopLeft",
+    "properties": {
+      "date:create": "2022-10-15T21:29:52+00:00",
+      "date:modify": "2022-10-15T21:29:52+00:00",
+      "quantum:format": "floating-point",
+      "signature": "1a24c180080bfa5c2d20dbfc71092b947fecd713eaa18f712d327ae28284a613",
+      "tiff:alpha": "unspecified",
+      "tiff:endian": "lsb",
+      "tiff:photometric": "min-is-black"
+    },
+    "tainted": false,
+    "filesize": "1.21757MB",
+    "numberPixels": "259200",
+    "pixelsPerSecond": "12.4678MB",
+    "userTime": "0.020u",
+    "elapsedTime": "0:01.020",
+    "version": "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+  }
+}]
